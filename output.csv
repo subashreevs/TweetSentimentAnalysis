@@ -1,0 +1,3799 @@
+UserName,Sentiment
+1,Neutral
+2,Positive
+3,Positive
+4,Positive
+5,Extremely Negative
+6,Positive
+7,Positive
+8,Neutral
+9,Positive
+10,Negative
+11,Neutral
+12,Extremely Positive
+13,Extremely Positive
+14,Positive
+15,Positive
+16,Positive
+17,Neutral
+18,Neutral
+19,Extremely Positive
+20,Positive
+21,Extremely Negative
+22,Neutral
+23,Extremely Positive
+24,Extremely Positive
+25,Negative
+26,Extremely Positive
+27,Negative
+28,Extremely Negative
+29,Negative
+30,Extremely Negative
+31,Negative
+32,Extremely Positive
+33,Neutral
+34,Extremely Positive
+35,Negative
+36,Neutral
+37,Positive
+38,Positive
+39,Negative
+40,Positive
+41,Extremely Positive
+42,Positive
+43,Extremely Negative
+44,Neutral
+45,Neutral
+46,Negative
+47,Extremely Positive
+48,Positive
+49,Extremely Positive
+50,Neutral
+51,Extremely Negative
+52,Neutral
+53,Negative
+54,Positive
+55,Extremely Negative
+56,Extremely Positive
+57,Extremely Negative
+58,Positive
+59,Extremely Positive
+60,Neutral
+61,Negative
+62,Neutral
+63,Positive
+64,Extremely Positive
+65,Neutral
+66,Extremely Negative
+67,Negative
+68,Negative
+69,Positive
+70,Positive
+71,Neutral
+72,Positive
+73,Neutral
+74,Neutral
+75,Positive
+76,Extremely Positive
+77,Extremely Negative
+78,Negative
+79,Extremely Negative
+80,Positive
+81,Positive
+82,Positive
+83,Extremely Negative
+84,Negative
+85,Extremely Negative
+86,Positive
+87,Negative
+88,Neutral
+89,Negative
+90,Extremely Positive
+91,Extremely Positive
+92,Negative
+93,Negative
+94,Extremely Positive
+95,Positive
+96,Extremely Positive
+97,Positive
+98,Positive
+99,Positive
+100,Negative
+101,Extremely Negative
+102,Negative
+103,Extremely Positive
+104,Positive
+105,Extremely Negative
+106,Extremely Positive
+107,Positive
+108,Extremely Negative
+109,Neutral
+110,Positive
+111,Positive
+112,Positive
+113,Negative
+114,Positive
+115,Extremely Negative
+116,Positive
+117,Negative
+118,Positive
+119,Negative
+120,Positive
+121,Extremely Negative
+122,Extremely Positive
+123,Negative
+124,Positive
+125,Extremely Positive
+126,Extremely Negative
+127,Extremely Negative
+128,Negative
+129,Negative
+130,Positive
+131,Extremely Positive
+132,Positive
+133,Positive
+134,Extremely Positive
+135,Positive
+136,Negative
+137,Negative
+138,Negative
+139,Extremely Positive
+140,Extremely Positive
+141,Negative
+142,Negative
+143,Positive
+144,Neutral
+145,Positive
+146,Extremely Negative
+147,Negative
+148,Negative
+149,Positive
+150,Extremely Positive
+151,Neutral
+152,Positive
+153,Positive
+154,Negative
+155,Positive
+156,Neutral
+157,Positive
+158,Extremely Positive
+159,Positive
+160,Neutral
+161,Extremely Positive
+162,Extremely Negative
+163,Extremely Negative
+164,Positive
+165,Extremely Negative
+166,Negative
+167,Positive
+168,Extremely Positive
+169,Positive
+170,Negative
+171,Extremely Negative
+172,Extremely Negative
+173,Positive
+174,Extremely Positive
+175,Neutral
+176,Neutral
+177,Extremely Negative
+178,Negative
+179,Extremely Positive
+180,Positive
+181,Neutral
+182,Neutral
+183,Extremely Negative
+184,Neutral
+185,Positive
+186,Extremely Positive
+187,Neutral
+188,Neutral
+189,Neutral
+190,Negative
+191,Negative
+192,Negative
+193,Extremely Positive
+194,Positive
+195,Positive
+196,Neutral
+197,Extremely Positive
+198,Neutral
+199,Extremely Positive
+200,Positive
+201,Positive
+202,Neutral
+203,Positive
+204,Positive
+205,Negative
+206,Extremely Negative
+207,Negative
+208,Positive
+209,Positive
+210,Extremely Positive
+211,Neutral
+212,Neutral
+213,Extremely Negative
+214,Positive
+215,Negative
+216,Negative
+217,Neutral
+218,Negative
+219,Neutral
+220,Extremely Negative
+221,Neutral
+222,Negative
+223,Positive
+224,Negative
+225,Positive
+226,Negative
+227,Positive
+228,Neutral
+229,Neutral
+230,Positive
+231,Neutral
+232,Positive
+233,Negative
+234,Neutral
+235,Extremely Negative
+236,Positive
+237,Extremely Positive
+238,Negative
+239,Negative
+240,Positive
+241,Negative
+242,Extremely Negative
+243,Extremely Positive
+244,Positive
+245,Positive
+246,Negative
+247,Extremely Positive
+248,Negative
+249,Negative
+250,Extremely Negative
+251,Negative
+252,Positive
+253,Extremely Negative
+254,Extremely Positive
+255,Extremely Positive
+256,Neutral
+257,Extremely Positive
+258,Neutral
+259,Extremely Negative
+260,Extremely Negative
+261,Positive
+262,Extremely Negative
+263,Positive
+264,Positive
+265,Extremely Negative
+266,Positive
+267,Negative
+268,Extremely Negative
+269,Negative
+270,Positive
+271,Positive
+272,Positive
+273,Negative
+274,Extremely Negative
+275,Extremely Positive
+276,Neutral
+277,Positive
+278,Neutral
+279,Positive
+280,Negative
+281,Negative
+282,Extremely Positive
+283,Extremely Positive
+284,Neutral
+285,Negative
+286,Extremely Positive
+287,Positive
+288,Neutral
+289,Positive
+290,Positive
+291,Negative
+292,Negative
+293,Extremely Positive
+294,Positive
+295,Extremely Positive
+296,Negative
+297,Negative
+298,Extremely Negative
+299,Negative
+300,Negative
+301,Extremely Negative
+302,Neutral
+303,Neutral
+304,Negative
+305,Positive
+306,Positive
+307,Positive
+308,Extremely Negative
+309,Negative
+310,Extremely Negative
+311,Negative
+312,Neutral
+313,Negative
+314,Negative
+315,Positive
+316,Neutral
+317,Neutral
+318,Neutral
+319,Negative
+320,Extremely Negative
+321,Negative
+322,Positive
+323,Positive
+324,Extremely Negative
+325,Negative
+326,Negative
+327,Neutral
+328,Neutral
+329,Extremely Positive
+330,Negative
+331,Negative
+332,Positive
+333,Positive
+334,Extremely Positive
+335,Extremely Negative
+336,Neutral
+337,Extremely Positive
+338,Extremely Positive
+339,Neutral
+340,Positive
+341,Positive
+342,Neutral
+343,Positive
+344,Neutral
+345,Positive
+346,Neutral
+347,Negative
+348,Negative
+349,Negative
+350,Extremely Positive
+351,Extremely Positive
+352,Positive
+353,Negative
+354,Extremely Negative
+355,Extremely Positive
+356,Extremely Negative
+357,Neutral
+358,Negative
+359,Positive
+360,Extremely Positive
+361,Positive
+362,Extremely Positive
+363,Extremely Negative
+364,Extremely Negative
+365,Negative
+366,Negative
+367,Neutral
+368,Positive
+369,Neutral
+370,Positive
+371,Extremely Negative
+372,Positive
+373,Negative
+374,Neutral
+375,Extremely Positive
+376,Neutral
+377,Negative
+378,Positive
+379,Neutral
+380,Extremely Positive
+381,Extremely Positive
+382,Neutral
+383,Negative
+384,Extremely Positive
+385,Neutral
+386,Extremely Negative
+387,Extremely Negative
+388,Negative
+389,Negative
+390,Extremely Positive
+391,Neutral
+392,Negative
+393,Positive
+394,Neutral
+395,Extremely Negative
+396,Positive
+397,Positive
+398,Neutral
+399,Negative
+400,Positive
+401,Extremely Negative
+402,Negative
+403,Extremely Positive
+404,Extremely Positive
+405,Extremely Negative
+406,Neutral
+407,Positive
+408,Neutral
+409,Extremely Negative
+410,Positive
+411,Negative
+412,Positive
+413,Positive
+414,Negative
+415,Neutral
+416,Negative
+417,Extremely Negative
+418,Negative
+419,Neutral
+420,Negative
+421,Positive
+422,Extremely Negative
+423,Neutral
+424,Extremely Negative
+425,Positive
+426,Neutral
+427,Extremely Positive
+428,Negative
+429,Positive
+430,Positive
+431,Extremely Negative
+432,Negative
+433,Negative
+434,Negative
+435,Negative
+436,Negative
+437,Positive
+438,Negative
+439,Negative
+440,Positive
+441,Positive
+442,Negative
+443,Positive
+444,Negative
+445,Extremely Positive
+446,Negative
+447,Positive
+448,Extremely Negative
+449,Positive
+450,Positive
+451,Extremely Negative
+452,Positive
+453,Extremely Positive
+454,Extremely Positive
+455,Negative
+456,Positive
+457,Neutral
+458,Neutral
+459,Extremely Positive
+460,Extremely Positive
+461,Extremely Negative
+462,Negative
+463,Extremely Positive
+464,Extremely Positive
+465,Positive
+466,Extremely Positive
+467,Positive
+468,Extremely Positive
+469,Negative
+470,Extremely Negative
+471,Negative
+472,Negative
+473,Negative
+474,Negative
+475,Positive
+476,Negative
+477,Positive
+478,Negative
+479,Extremely Negative
+480,Extremely Negative
+481,Negative
+482,Positive
+483,Positive
+484,Positive
+485,Extremely Negative
+486,Negative
+487,Neutral
+488,Extremely Negative
+489,Positive
+490,Negative
+491,Neutral
+492,Extremely Negative
+493,Negative
+494,Positive
+495,Neutral
+496,Neutral
+497,Positive
+498,Extremely Negative
+499,Negative
+500,Negative
+501,Positive
+502,Neutral
+503,Positive
+504,Negative
+505,Positive
+506,Extremely Negative
+507,Neutral
+508,Negative
+509,Extremely Negative
+510,Extremely Positive
+511,Positive
+512,Extremely Positive
+513,Neutral
+514,Extremely Negative
+515,Negative
+516,Positive
+517,Positive
+518,Negative
+519,Negative
+520,Positive
+521,Extremely Negative
+522,Extremely Negative
+523,Neutral
+524,Extremely Negative
+525,Negative
+526,Positive
+527,Negative
+528,Extremely Negative
+529,Negative
+530,Negative
+531,Neutral
+532,Extremely Positive
+533,Neutral
+534,Positive
+535,Positive
+536,Extremely Negative
+537,Extremely Negative
+538,Extremely Positive
+539,Extremely Negative
+540,Extremely Positive
+541,Positive
+542,Positive
+543,Positive
+544,Positive
+545,Positive
+546,Extremely Positive
+547,Neutral
+548,Extremely Negative
+549,Positive
+550,Neutral
+551,Negative
+552,Negative
+553,Extremely Negative
+554,Extremely Positive
+555,Positive
+556,Positive
+557,Neutral
+558,Positive
+559,Negative
+560,Neutral
+561,Negative
+562,Positive
+563,Positive
+564,Negative
+565,Neutral
+566,Negative
+567,Extremely Positive
+568,Extremely Positive
+569,Positive
+570,Extremely Positive
+571,Negative
+572,Extremely Positive
+573,Neutral
+574,Negative
+575,Extremely Negative
+576,Positive
+577,Negative
+578,Negative
+579,Negative
+580,Neutral
+581,Positive
+582,Positive
+583,Positive
+584,Neutral
+585,Extremely Positive
+586,Neutral
+587,Positive
+588,Negative
+589,Extremely Negative
+590,Extremely Positive
+591,Neutral
+592,Positive
+593,Neutral
+594,Negative
+595,Negative
+596,Negative
+597,Extremely Negative
+598,Extremely Negative
+599,Negative
+600,Extremely Positive
+601,Positive
+602,Negative
+603,Positive
+604,Negative
+605,Extremely Positive
+606,Negative
+607,Extremely Positive
+608,Negative
+609,Positive
+610,Positive
+611,Negative
+612,Neutral
+613,Negative
+614,Neutral
+615,Positive
+616,Positive
+617,Extremely Negative
+618,Extremely Negative
+619,Positive
+620,Extremely Negative
+621,Extremely Negative
+622,Negative
+623,Positive
+624,Extremely Negative
+625,Extremely Positive
+626,Neutral
+627,Positive
+628,Positive
+629,Extremely Negative
+630,Negative
+631,Extremely Positive
+632,Positive
+633,Extremely Negative
+634,Negative
+635,Extremely Positive
+636,Positive
+637,Extremely Positive
+638,Positive
+639,Negative
+640,Negative
+641,Extremely Negative
+642,Extremely Negative
+643,Positive
+644,Neutral
+645,Positive
+646,Negative
+647,Negative
+648,Extremely Positive
+649,Extremely Positive
+650,Neutral
+651,Negative
+652,Positive
+653,Positive
+654,Extremely Positive
+655,Positive
+656,Negative
+657,Positive
+658,Extremely Positive
+659,Neutral
+660,Negative
+661,Negative
+662,Neutral
+663,Positive
+664,Positive
+665,Extremely Negative
+666,Negative
+667,Extremely Negative
+668,Negative
+669,Negative
+670,Negative
+671,Extremely Negative
+672,Negative
+673,Extremely Positive
+674,Extremely Positive
+675,Extremely Positive
+676,Negative
+677,Positive
+678,Extremely Positive
+679,Positive
+680,Positive
+681,Positive
+682,Extremely Negative
+683,Positive
+684,Positive
+685,Positive
+686,Negative
+687,Positive
+688,Positive
+689,Extremely Negative
+690,Neutral
+691,Positive
+692,Extremely Positive
+693,Extremely Positive
+694,Extremely Negative
+695,Negative
+696,Positive
+697,Negative
+698,Extremely Negative
+699,Negative
+700,Negative
+701,Negative
+702,Negative
+703,Neutral
+704,Extremely Negative
+705,Negative
+706,Extremely Negative
+707,Positive
+708,Neutral
+709,Negative
+710,Negative
+711,Negative
+712,Extremely Negative
+713,Extremely Negative
+714,Positive
+715,Negative
+716,Positive
+717,Positive
+718,Extremely Negative
+719,Positive
+720,Negative
+721,Extremely Negative
+722,Extremely Positive
+723,Extremely Negative
+724,Negative
+725,Extremely Positive
+726,Positive
+727,Extremely Positive
+728,Neutral
+729,Negative
+730,Extremely Positive
+731,Positive
+732,Extremely Negative
+733,Extremely Negative
+734,Extremely Negative
+735,Positive
+736,Extremely Positive
+737,Negative
+738,Extremely Negative
+739,Extremely Negative
+740,Negative
+741,Extremely Negative
+742,Positive
+743,Extremely Negative
+744,Positive
+745,Neutral
+746,Extremely Negative
+747,Neutral
+748,Extremely Positive
+749,Extremely Negative
+750,Negative
+751,Extremely Negative
+752,Positive
+753,Extremely Positive
+754,Neutral
+755,Positive
+756,Positive
+757,Positive
+758,Extremely Negative
+759,Negative
+760,Neutral
+761,Neutral
+762,Extremely Positive
+763,Positive
+764,Positive
+765,Extremely Positive
+766,Positive
+767,Negative
+768,Positive
+769,Neutral
+770,Extremely Negative
+771,Negative
+772,Neutral
+773,Neutral
+774,Positive
+775,Positive
+776,Positive
+777,Negative
+778,Neutral
+779,Extremely Negative
+780,Extremely Negative
+781,Positive
+782,Negative
+783,Neutral
+784,Neutral
+785,Negative
+786,Neutral
+787,Negative
+788,Negative
+789,Negative
+790,Extremely Positive
+791,Positive
+792,Negative
+793,Positive
+794,Neutral
+795,Negative
+796,Extremely Negative
+797,Negative
+798,Extremely Negative
+799,Negative
+800,Extremely Negative
+801,Negative
+802,Extremely Negative
+803,Negative
+804,Extremely Negative
+805,Negative
+806,Negative
+807,Extremely Negative
+808,Negative
+809,Negative
+810,Neutral
+811,Negative
+812,Extremely Negative
+813,Negative
+814,Extremely Negative
+815,Negative
+816,Negative
+817,Positive
+818,Extremely Positive
+819,Extremely Negative
+820,Extremely Negative
+821,Neutral
+822,Positive
+823,Negative
+824,Negative
+825,Positive
+826,Extremely Positive
+827,Neutral
+828,Neutral
+829,Extremely Negative
+830,Neutral
+831,Negative
+832,Neutral
+833,Extremely Negative
+834,Extremely Positive
+835,Neutral
+836,Negative
+837,Neutral
+838,Neutral
+839,Extremely Positive
+840,Negative
+841,Extremely Negative
+842,Positive
+843,Negative
+844,Positive
+845,Neutral
+846,Extremely Negative
+847,Positive
+848,Neutral
+849,Neutral
+850,Negative
+851,Negative
+852,Extremely Negative
+853,Negative
+854,Negative
+855,Extremely Positive
+856,Neutral
+857,Extremely Negative
+858,Extremely Positive
+859,Negative
+860,Extremely Positive
+861,Neutral
+862,Negative
+863,Positive
+864,Positive
+865,Negative
+866,Positive
+867,Negative
+868,Negative
+869,Positive
+870,Negative
+871,Neutral
+872,Neutral
+873,Extremely Negative
+874,Neutral
+875,Neutral
+876,Extremely Positive
+877,Extremely Positive
+878,Extremely Positive
+879,Neutral
+880,Extremely Negative
+881,Neutral
+882,Extremely Positive
+883,Negative
+884,Negative
+885,Positive
+886,Extremely Negative
+887,Extremely Negative
+888,Extremely Positive
+889,Neutral
+890,Neutral
+891,Negative
+892,Negative
+893,Negative
+894,Positive
+895,Extremely Positive
+896,Neutral
+897,Extremely Negative
+898,Neutral
+899,Negative
+900,Extremely Negative
+901,Neutral
+902,Positive
+903,Positive
+904,Neutral
+905,Neutral
+906,Extremely Positive
+907,Negative
+908,Extremely Negative
+909,Positive
+910,Extremely Negative
+911,Extremely Positive
+912,Extremely Positive
+913,Extremely Positive
+914,Positive
+915,Neutral
+916,Neutral
+917,Extremely Positive
+918,Negative
+919,Extremely Negative
+920,Neutral
+921,Extremely Positive
+922,Positive
+923,Extremely Positive
+924,Extremely Negative
+925,Extremely Negative
+926,Negative
+927,Negative
+928,Extremely Positive
+929,Positive
+930,Extremely Negative
+931,Neutral
+932,Negative
+933,Extremely Negative
+934,Negative
+935,Negative
+936,Positive
+937,Extremely Negative
+938,Negative
+939,Extremely Negative
+940,Negative
+941,Negative
+942,Negative
+943,Negative
+944,Extremely Negative
+945,Negative
+946,Positive
+947,Positive
+948,Neutral
+949,Extremely Positive
+950,Negative
+951,Positive
+952,Negative
+953,Negative
+954,Extremely Negative
+955,Neutral
+956,Extremely Positive
+957,Negative
+958,Extremely Negative
+959,Positive
+960,Extremely Positive
+961,Negative
+962,Extremely Negative
+963,Extremely Positive
+964,Extremely Positive
+965,Positive
+966,Neutral
+967,Extremely Negative
+968,Negative
+969,Extremely Negative
+970,Negative
+971,Extremely Positive
+972,Neutral
+973,Extremely Positive
+974,Neutral
+975,Positive
+976,Negative
+977,Negative
+978,Positive
+979,Extremely Positive
+980,Positive
+981,Negative
+982,Positive
+983,Positive
+984,Negative
+985,Negative
+986,Neutral
+987,Positive
+988,Negative
+989,Neutral
+990,Negative
+991,Positive
+992,Negative
+993,Positive
+994,Neutral
+995,Positive
+996,Negative
+997,Extremely Positive
+998,Extremely Positive
+999,Extremely Positive
+1000,Negative
+1001,Positive
+1002,Neutral
+1003,Positive
+1004,Neutral
+1005,Positive
+1006,Negative
+1007,Positive
+1008,Positive
+1009,Negative
+1010,Extremely Negative
+1011,Extremely Positive
+1012,Neutral
+1013,Positive
+1014,Positive
+1015,Positive
+1016,Positive
+1017,Negative
+1018,Extremely Negative
+1019,Positive
+1020,Positive
+1021,Positive
+1022,Positive
+1023,Extremely Negative
+1024,Negative
+1025,Extremely Negative
+1026,Negative
+1027,Extremely Positive
+1028,Positive
+1029,Extremely Negative
+1030,Positive
+1031,Extremely Positive
+1032,Positive
+1033,Positive
+1034,Neutral
+1035,Extremely Positive
+1036,Extremely Positive
+1037,Extremely Negative
+1038,Negative
+1039,Neutral
+1040,Neutral
+1041,Neutral
+1042,Neutral
+1043,Positive
+1044,Positive
+1045,Extremely Negative
+1046,Positive
+1047,Positive
+1048,Positive
+1049,Negative
+1050,Extremely Negative
+1051,Extremely Positive
+1052,Neutral
+1053,Negative
+1054,Positive
+1055,Positive
+1056,Positive
+1057,Negative
+1058,Extremely Positive
+1059,Neutral
+1060,Negative
+1061,Extremely Negative
+1062,Neutral
+1063,Neutral
+1064,Negative
+1065,Negative
+1066,Extremely Positive
+1067,Negative
+1068,Extremely Positive
+1069,Neutral
+1070,Negative
+1071,Neutral
+1072,Extremely Negative
+1073,Neutral
+1074,Extremely Negative
+1075,Neutral
+1076,Extremely Positive
+1077,Positive
+1078,Extremely Negative
+1079,Positive
+1080,Neutral
+1081,Extremely Positive
+1082,Neutral
+1083,Extremely Negative
+1084,Neutral
+1085,Neutral
+1086,Extremely Positive
+1087,Extremely Negative
+1088,Extremely Positive
+1089,Extremely Negative
+1090,Neutral
+1091,Positive
+1092,Negative
+1093,Positive
+1094,Positive
+1095,Negative
+1096,Positive
+1097,Negative
+1098,Negative
+1099,Positive
+1100,Positive
+1101,Positive
+1102,Negative
+1103,Positive
+1104,Positive
+1105,Negative
+1106,Neutral
+1107,Positive
+1108,Neutral
+1109,Positive
+1110,Extremely Negative
+1111,Negative
+1112,Extremely Negative
+1113,Negative
+1114,Positive
+1115,Positive
+1116,Neutral
+1117,Extremely Negative
+1118,Negative
+1119,Negative
+1120,Positive
+1121,Neutral
+1122,Negative
+1123,Positive
+1124,Positive
+1125,Positive
+1126,Negative
+1127,Negative
+1128,Positive
+1129,Neutral
+1130,Neutral
+1131,Positive
+1132,Negative
+1133,Positive
+1134,Neutral
+1135,Positive
+1136,Negative
+1137,Extremely Positive
+1138,Positive
+1139,Neutral
+1140,Extremely Positive
+1141,Positive
+1142,Neutral
+1143,Positive
+1144,Negative
+1145,Neutral
+1146,Negative
+1147,Positive
+1148,Neutral
+1149,Extremely Positive
+1150,Extremely Positive
+1151,Positive
+1152,Extremely Positive
+1153,Positive
+1154,Positive
+1155,Extremely Positive
+1156,Extremely Negative
+1157,Extremely Positive
+1158,Negative
+1159,Positive
+1160,Positive
+1161,Negative
+1162,Negative
+1163,Extremely Negative
+1164,Extremely Negative
+1165,Neutral
+1166,Extremely Negative
+1167,Extremely Negative
+1168,Neutral
+1169,Neutral
+1170,Neutral
+1171,Positive
+1172,Neutral
+1173,Negative
+1174,Neutral
+1175,Neutral
+1176,Negative
+1177,Extremely Positive
+1178,Extremely Negative
+1179,Negative
+1180,Neutral
+1181,Positive
+1182,Positive
+1183,Neutral
+1184,Positive
+1185,Negative
+1186,Extremely Positive
+1187,Extremely Positive
+1188,Negative
+1189,Negative
+1190,Extremely Negative
+1191,Extremely Positive
+1192,Extremely Positive
+1193,Extremely Positive
+1194,Positive
+1195,Positive
+1196,Negative
+1197,Neutral
+1198,Neutral
+1199,Neutral
+1200,Negative
+1201,Negative
+1202,Extremely Negative
+1203,Neutral
+1204,Extremely Negative
+1205,Negative
+1206,Neutral
+1207,Negative
+1208,Positive
+1209,Negative
+1210,Positive
+1211,Positive
+1212,Negative
+1213,Extremely Positive
+1214,Neutral
+1215,Positive
+1216,Positive
+1217,Extremely Negative
+1218,Positive
+1219,Positive
+1220,Neutral
+1221,Negative
+1222,Negative
+1223,Positive
+1224,Neutral
+1225,Positive
+1226,Neutral
+1227,Extremely Positive
+1228,Negative
+1229,Neutral
+1230,Extremely Positive
+1231,Positive
+1232,Extremely Positive
+1233,Positive
+1234,Extremely Positive
+1235,Negative
+1236,Positive
+1237,Negative
+1238,Extremely Positive
+1239,Positive
+1240,Extremely Negative
+1241,Neutral
+1242,Extremely Negative
+1243,Neutral
+1244,Positive
+1245,Positive
+1246,Extremely Positive
+1247,Extremely Negative
+1248,Extremely Positive
+1249,Neutral
+1250,Negative
+1251,Extremely Negative
+1252,Positive
+1253,Negative
+1254,Neutral
+1255,Positive
+1256,Positive
+1257,Negative
+1258,Negative
+1259,Negative
+1260,Negative
+1261,Neutral
+1262,Neutral
+1263,Positive
+1264,Positive
+1265,Positive
+1266,Extremely Negative
+1267,Extremely Positive
+1268,Positive
+1269,Extremely Positive
+1270,Extremely Positive
+1271,Negative
+1272,Negative
+1273,Negative
+1274,Positive
+1275,Extremely Positive
+1276,Extremely Negative
+1277,Positive
+1278,Positive
+1279,Positive
+1280,Extremely Negative
+1281,Extremely Positive
+1282,Negative
+1283,Positive
+1284,Extremely Positive
+1285,Negative
+1286,Positive
+1287,Extremely Negative
+1288,Negative
+1289,Positive
+1290,Negative
+1291,Neutral
+1292,Positive
+1293,Extremely Positive
+1294,Extremely Negative
+1295,Neutral
+1296,Extremely Negative
+1297,Extremely Negative
+1298,Negative
+1299,Negative
+1300,Extremely Negative
+1301,Extremely Positive
+1302,Positive
+1303,Positive
+1304,Negative
+1305,Negative
+1306,Negative
+1307,Positive
+1308,Negative
+1309,Extremely Negative
+1310,Extremely Negative
+1311,Positive
+1312,Negative
+1313,Positive
+1314,Positive
+1315,Negative
+1316,Positive
+1317,Positive
+1318,Extremely Negative
+1319,Positive
+1320,Negative
+1321,Extremely Negative
+1322,Extremely Positive
+1323,Neutral
+1324,Neutral
+1325,Extremely Negative
+1326,Positive
+1327,Extremely Negative
+1328,Extremely Positive
+1329,Negative
+1330,Extremely Positive
+1331,Negative
+1332,Neutral
+1333,Extremely Positive
+1334,Neutral
+1335,Negative
+1336,Neutral
+1337,Extremely Negative
+1338,Neutral
+1339,Negative
+1340,Neutral
+1341,Neutral
+1342,Positive
+1343,Neutral
+1344,Extremely Positive
+1345,Extremely Positive
+1346,Positive
+1347,Positive
+1348,Positive
+1349,Positive
+1350,Neutral
+1351,Negative
+1352,Negative
+1353,Negative
+1354,Neutral
+1355,Positive
+1356,Extremely Positive
+1357,Neutral
+1358,Positive
+1359,Extremely Negative
+1360,Positive
+1361,Neutral
+1362,Neutral
+1363,Positive
+1364,Neutral
+1365,Negative
+1366,Negative
+1367,Extremely Negative
+1368,Neutral
+1369,Extremely Negative
+1370,Positive
+1371,Neutral
+1372,Neutral
+1373,Negative
+1374,Neutral
+1375,Negative
+1376,Extremely Negative
+1377,Extremely Negative
+1378,Extremely Positive
+1379,Positive
+1380,Extremely Positive
+1381,Extremely Positive
+1382,Positive
+1383,Extremely Positive
+1384,Negative
+1385,Positive
+1386,Extremely Negative
+1387,Negative
+1388,Negative
+1389,Extremely Negative
+1390,Negative
+1391,Negative
+1392,Positive
+1393,Neutral
+1394,Extremely Negative
+1395,Extremely Positive
+1396,Positive
+1397,Extremely Positive
+1398,Neutral
+1399,Neutral
+1400,Negative
+1401,Negative
+1402,Positive
+1403,Positive
+1404,Positive
+1405,Positive
+1406,Extremely Negative
+1407,Negative
+1408,Extremely Negative
+1409,Positive
+1410,Extremely Positive
+1411,Neutral
+1412,Negative
+1413,Neutral
+1414,Positive
+1415,Positive
+1416,Extremely Negative
+1417,Positive
+1418,Extremely Positive
+1419,Positive
+1420,Negative
+1421,Extremely Positive
+1422,Positive
+1423,Extremely Negative
+1424,Neutral
+1425,Extremely Negative
+1426,Positive
+1427,Positive
+1428,Neutral
+1429,Neutral
+1430,Neutral
+1431,Positive
+1432,Positive
+1433,Extremely Positive
+1434,Negative
+1435,Extremely Positive
+1436,Negative
+1437,Positive
+1438,Positive
+1439,Positive
+1440,Positive
+1441,Negative
+1442,Positive
+1443,Neutral
+1444,Negative
+1445,Positive
+1446,Extremely Negative
+1447,Positive
+1448,Positive
+1449,Negative
+1450,Negative
+1451,Negative
+1452,Positive
+1453,Extremely Positive
+1454,Positive
+1455,Extremely Negative
+1456,Extremely Negative
+1457,Neutral
+1458,Positive
+1459,Neutral
+1460,Negative
+1461,Extremely Negative
+1462,Extremely Positive
+1463,Extremely Positive
+1464,Neutral
+1465,Positive
+1466,Negative
+1467,Negative
+1468,Extremely Positive
+1469,Extremely Positive
+1470,Neutral
+1471,Neutral
+1472,Positive
+1473,Negative
+1474,Extremely Positive
+1475,Extremely Positive
+1476,Extremely Positive
+1477,Extremely Positive
+1478,Positive
+1479,Negative
+1480,Positive
+1481,Positive
+1482,Positive
+1483,Negative
+1484,Positive
+1485,Extremely Positive
+1486,Negative
+1487,Negative
+1488,Negative
+1489,Extremely Positive
+1490,Extremely Positive
+1491,Positive
+1492,Extremely Negative
+1493,Neutral
+1494,Negative
+1495,Positive
+1496,Neutral
+1497,Neutral
+1498,Neutral
+1499,Extremely Positive
+1500,Extremely Negative
+1501,Positive
+1502,Negative
+1503,Positive
+1504,Positive
+1505,Extremely Positive
+1506,Negative
+1507,Neutral
+1508,Extremely Positive
+1509,Extremely Positive
+1510,Negative
+1511,Negative
+1512,Neutral
+1513,Extremely Positive
+1514,Negative
+1515,Extremely Positive
+1516,Positive
+1517,Neutral
+1518,Negative
+1519,Extremely Positive
+1520,Extremely Positive
+1521,Positive
+1522,Negative
+1523,Positive
+1524,Positive
+1525,Extremely Negative
+1526,Extremely Negative
+1527,Neutral
+1528,Positive
+1529,Extremely Positive
+1530,Positive
+1531,Negative
+1532,Negative
+1533,Extremely Negative
+1534,Positive
+1535,Extremely Positive
+1536,Positive
+1537,Positive
+1538,Neutral
+1539,Extremely Negative
+1540,Positive
+1541,Neutral
+1542,Positive
+1543,Extremely Negative
+1544,Extremely Positive
+1545,Extremely Negative
+1546,Neutral
+1547,Extremely Positive
+1548,Extremely Negative
+1549,Extremely Negative
+1550,Extremely Positive
+1551,Extremely Positive
+1552,Negative
+1553,Extremely Negative
+1554,Negative
+1555,Extremely Negative
+1556,Positive
+1557,Positive
+1558,Positive
+1559,Negative
+1560,Positive
+1561,Extremely Positive
+1562,Positive
+1563,Negative
+1564,Neutral
+1565,Positive
+1566,Negative
+1567,Positive
+1568,Negative
+1569,Positive
+1570,Negative
+1571,Extremely Negative
+1572,Positive
+1573,Positive
+1574,Extremely Positive
+1575,Positive
+1576,Neutral
+1577,Positive
+1578,Negative
+1579,Positive
+1580,Positive
+1581,Neutral
+1582,Extremely Positive
+1583,Negative
+1584,Negative
+1585,Positive
+1586,Negative
+1587,Neutral
+1588,Neutral
+1589,Extremely Negative
+1590,Extremely Negative
+1591,Extremely Negative
+1592,Negative
+1593,Positive
+1594,Neutral
+1595,Neutral
+1596,Positive
+1597,Negative
+1598,Extremely Negative
+1599,Extremely Positive
+1600,Extremely Positive
+1601,Negative
+1602,Neutral
+1603,Neutral
+1604,Positive
+1605,Extremely Negative
+1606,Negative
+1607,Extremely Positive
+1608,Extremely Negative
+1609,Positive
+1610,Extremely Positive
+1611,Extremely Negative
+1612,Extremely Positive
+1613,Neutral
+1614,Negative
+1615,Negative
+1616,Positive
+1617,Neutral
+1618,Positive
+1619,Positive
+1620,Extremely Negative
+1621,Extremely Negative
+1622,Negative
+1623,Neutral
+1624,Neutral
+1625,Extremely Positive
+1626,Extremely Negative
+1627,Neutral
+1628,Extremely Negative
+1629,Neutral
+1630,Positive
+1631,Negative
+1632,Positive
+1633,Neutral
+1634,Extremely Negative
+1635,Negative
+1636,Extremely Positive
+1637,Extremely Negative
+1638,Negative
+1639,Neutral
+1640,Positive
+1641,Extremely Negative
+1642,Neutral
+1643,Extremely Negative
+1644,Negative
+1645,Negative
+1646,Negative
+1647,Positive
+1648,Negative
+1649,Neutral
+1650,Negative
+1651,Negative
+1652,Positive
+1653,Positive
+1654,Negative
+1655,Negative
+1656,Positive
+1657,Extremely Negative
+1658,Extremely Positive
+1659,Extremely Positive
+1660,Positive
+1661,Negative
+1662,Negative
+1663,Positive
+1664,Neutral
+1665,Negative
+1666,Positive
+1667,Negative
+1668,Extremely Positive
+1669,Negative
+1670,Positive
+1671,Extremely Positive
+1672,Extremely Positive
+1673,Extremely Negative
+1674,Extremely Positive
+1675,Neutral
+1676,Extremely Negative
+1677,Extremely Positive
+1678,Extremely Negative
+1679,Positive
+1680,Neutral
+1681,Negative
+1682,Negative
+1683,Neutral
+1684,Negative
+1685,Positive
+1686,Negative
+1687,Negative
+1688,Extremely Negative
+1689,Extremely Positive
+1690,Negative
+1691,Extremely Positive
+1692,Negative
+1693,Extremely Positive
+1694,Negative
+1695,Negative
+1696,Neutral
+1697,Extremely Negative
+1698,Positive
+1699,Negative
+1700,Neutral
+1701,Negative
+1702,Negative
+1703,Positive
+1704,Extremely Positive
+1705,Negative
+1706,Positive
+1707,Positive
+1708,Positive
+1709,Extremely Negative
+1710,Positive
+1711,Neutral
+1712,Positive
+1713,Negative
+1714,Negative
+1715,Neutral
+1716,Negative
+1717,Extremely Positive
+1718,Extremely Negative
+1719,Positive
+1720,Negative
+1721,Positive
+1722,Negative
+1723,Extremely Negative
+1724,Neutral
+1725,Negative
+1726,Extremely Negative
+1727,Neutral
+1728,Positive
+1729,Positive
+1730,Neutral
+1731,Negative
+1732,Negative
+1733,Extremely Positive
+1734,Positive
+1735,Neutral
+1736,Positive
+1737,Extremely Positive
+1738,Negative
+1739,Negative
+1740,Positive
+1741,Extremely Negative
+1742,Positive
+1743,Positive
+1744,Positive
+1745,Positive
+1746,Extremely Negative
+1747,Extremely Negative
+1748,Neutral
+1749,Positive
+1750,Negative
+1751,Neutral
+1752,Negative
+1753,Positive
+1754,Neutral
+1755,Extremely Positive
+1756,Extremely Negative
+1757,Positive
+1758,Positive
+1759,Extremely Negative
+1760,Negative
+1761,Neutral
+1762,Positive
+1763,Positive
+1764,Extremely Positive
+1765,Positive
+1766,Extremely Negative
+1767,Negative
+1768,Positive
+1769,Neutral
+1770,Positive
+1771,Positive
+1772,Extremely Negative
+1773,Positive
+1774,Negative
+1775,Positive
+1776,Positive
+1777,Negative
+1778,Negative
+1779,Neutral
+1780,Negative
+1781,Positive
+1782,Neutral
+1783,Extremely Negative
+1784,Negative
+1785,Extremely Negative
+1786,Extremely Positive
+1787,Neutral
+1788,Negative
+1789,Extremely Positive
+1790,Neutral
+1791,Neutral
+1792,Negative
+1793,Negative
+1794,Negative
+1795,Neutral
+1796,Extremely Positive
+1797,Positive
+1798,Negative
+1799,Extremely Negative
+1800,Negative
+1801,Positive
+1802,Neutral
+1803,Neutral
+1804,Extremely Positive
+1805,Neutral
+1806,Negative
+1807,Negative
+1808,Neutral
+1809,Neutral
+1810,Neutral
+1811,Positive
+1812,Negative
+1813,Positive
+1814,Positive
+1815,Positive
+1816,Extremely Positive
+1817,Positive
+1818,Extremely Positive
+1819,Positive
+1820,Positive
+1821,Positive
+1822,Neutral
+1823,Positive
+1824,Negative
+1825,Negative
+1826,Positive
+1827,Extremely Negative
+1828,Negative
+1829,Extremely Negative
+1830,Extremely Negative
+1831,Neutral
+1832,Negative
+1833,Extremely Negative
+1834,Extremely Negative
+1835,Negative
+1836,Neutral
+1837,Neutral
+1838,Neutral
+1839,Negative
+1840,Negative
+1841,Negative
+1842,Negative
+1843,Neutral
+1844,Neutral
+1845,Negative
+1846,Extremely Positive
+1847,Extremely Negative
+1848,Extremely Positive
+1849,Extremely Negative
+1850,Extremely Positive
+1851,Positive
+1852,Extremely Negative
+1853,Positive
+1854,Extremely Negative
+1855,Negative
+1856,Extremely Positive
+1857,Positive
+1858,Neutral
+1859,Neutral
+1860,Negative
+1861,Positive
+1862,Neutral
+1863,Negative
+1864,Neutral
+1865,Negative
+1866,Extremely Positive
+1867,Neutral
+1868,Positive
+1869,Neutral
+1870,Negative
+1871,Extremely Negative
+1872,Extremely Positive
+1873,Positive
+1874,Positive
+1875,Neutral
+1876,Extremely Positive
+1877,Extremely Negative
+1878,Extremely Negative
+1879,Negative
+1880,Positive
+1881,Negative
+1882,Positive
+1883,Neutral
+1884,Extremely Positive
+1885,Extremely Negative
+1886,Negative
+1887,Negative
+1888,Neutral
+1889,Negative
+1890,Neutral
+1891,Extremely Negative
+1892,Extremely Positive
+1893,Extremely Negative
+1894,Positive
+1895,Negative
+1896,Positive
+1897,Positive
+1898,Neutral
+1899,Negative
+1900,Extremely Positive
+1901,Negative
+1902,Negative
+1903,Positive
+1904,Extremely Negative
+1905,Neutral
+1906,Extremely Positive
+1907,Extremely Positive
+1908,Negative
+1909,Neutral
+1910,Extremely Positive
+1911,Neutral
+1912,Positive
+1913,Extremely Negative
+1914,Extremely Negative
+1915,Extremely Positive
+1916,Positive
+1917,Extremely Positive
+1918,Extremely Positive
+1919,Negative
+1920,Positive
+1921,Neutral
+1922,Neutral
+1923,Extremely Negative
+1924,Extremely Negative
+1925,Negative
+1926,Neutral
+1927,Negative
+1928,Positive
+1929,Positive
+1930,Negative
+1931,Positive
+1932,Neutral
+1933,Neutral
+1934,Negative
+1935,Extremely Negative
+1936,Negative
+1937,Extremely Negative
+1938,Neutral
+1939,Neutral
+1940,Negative
+1941,Negative
+1942,Extremely Positive
+1943,Positive
+1944,Extremely Negative
+1945,Positive
+1946,Positive
+1947,Extremely Positive
+1948,Negative
+1949,Positive
+1950,Extremely Positive
+1951,Negative
+1952,Negative
+1953,Extremely Positive
+1954,Positive
+1955,Positive
+1956,Positive
+1957,Negative
+1958,Negative
+1959,Negative
+1960,Neutral
+1961,Neutral
+1962,Neutral
+1963,Neutral
+1964,Negative
+1965,Positive
+1966,Negative
+1967,Extremely Positive
+1968,Negative
+1969,Negative
+1970,Negative
+1971,Negative
+1972,Extremely Negative
+1973,Positive
+1974,Positive
+1975,Extremely Negative
+1976,Extremely Negative
+1977,Extremely Positive
+1978,Positive
+1979,Extremely Positive
+1980,Neutral
+1981,Extremely Negative
+1982,Neutral
+1983,Negative
+1984,Positive
+1985,Negative
+1986,Extremely Negative
+1987,Neutral
+1988,Negative
+1989,Neutral
+1990,Positive
+1991,Positive
+1992,Negative
+1993,Extremely Negative
+1994,Extremely Negative
+1995,Extremely Positive
+1996,Neutral
+1997,Extremely Negative
+1998,Neutral
+1999,Negative
+2000,Negative
+2001,Extremely Negative
+2002,Positive
+2003,Negative
+2004,Neutral
+2005,Negative
+2006,Negative
+2007,Extremely Negative
+2008,Negative
+2009,Extremely Negative
+2010,Extremely Negative
+2011,Positive
+2012,Positive
+2013,Positive
+2014,Positive
+2015,Negative
+2016,Extremely Positive
+2017,Neutral
+2018,Positive
+2019,Negative
+2020,Extremely Positive
+2021,Neutral
+2022,Negative
+2023,Neutral
+2024,Negative
+2025,Neutral
+2026,Positive
+2027,Negative
+2028,Negative
+2029,Neutral
+2030,Neutral
+2031,Positive
+2032,Positive
+2033,Neutral
+2034,Extremely Negative
+2035,Extremely Positive
+2036,Negative
+2037,Negative
+2038,Negative
+2039,Neutral
+2040,Extremely Negative
+2041,Negative
+2042,Extremely Positive
+2043,Extremely Negative
+2044,Extremely Negative
+2045,Negative
+2046,Neutral
+2047,Negative
+2048,Extremely Positive
+2049,Neutral
+2050,Positive
+2051,Positive
+2052,Neutral
+2053,Extremely Negative
+2054,Neutral
+2055,Positive
+2056,Positive
+2057,Positive
+2058,Negative
+2059,Negative
+2060,Negative
+2061,Positive
+2062,Extremely Positive
+2063,Neutral
+2064,Neutral
+2065,Extremely Negative
+2066,Neutral
+2067,Extremely Positive
+2068,Extremely Negative
+2069,Positive
+2070,Extremely Positive
+2071,Negative
+2072,Neutral
+2073,Neutral
+2074,Extremely Negative
+2075,Negative
+2076,Neutral
+2077,Positive
+2078,Positive
+2079,Extremely Negative
+2080,Neutral
+2081,Positive
+2082,Neutral
+2083,Extremely Negative
+2084,Positive
+2085,Extremely Positive
+2086,Negative
+2087,Extremely Negative
+2088,Extremely Positive
+2089,Positive
+2090,Extremely Positive
+2091,Extremely Negative
+2092,Negative
+2093,Positive
+2094,Negative
+2095,Neutral
+2096,Extremely Positive
+2097,Negative
+2098,Negative
+2099,Negative
+2100,Extremely Negative
+2101,Extremely Positive
+2102,Extremely Negative
+2103,Negative
+2104,Positive
+2105,Negative
+2106,Neutral
+2107,Extremely Negative
+2108,Extremely Positive
+2109,Neutral
+2110,Negative
+2111,Neutral
+2112,Positive
+2113,Neutral
+2114,Extremely Positive
+2115,Positive
+2116,Negative
+2117,Extremely Positive
+2118,Negative
+2119,Positive
+2120,Positive
+2121,Positive
+2122,Neutral
+2123,Extremely Positive
+2124,Extremely Negative
+2125,Negative
+2126,Negative
+2127,Positive
+2128,Neutral
+2129,Extremely Positive
+2130,Positive
+2131,Extremely Positive
+2132,Negative
+2133,Extremely Positive
+2134,Positive
+2135,Extremely Positive
+2136,Negative
+2137,Extremely Positive
+2138,Neutral
+2139,Extremely Negative
+2140,Extremely Negative
+2141,Extremely Negative
+2142,Neutral
+2143,Extremely Negative
+2144,Extremely Negative
+2145,Neutral
+2146,Extremely Positive
+2147,Negative
+2148,Extremely Positive
+2149,Negative
+2150,Extremely Negative
+2151,Extremely Negative
+2152,Positive
+2153,Positive
+2154,Positive
+2155,Negative
+2156,Extremely Positive
+2157,Positive
+2158,Negative
+2159,Positive
+2160,Negative
+2161,Negative
+2162,Positive
+2163,Negative
+2164,Neutral
+2165,Extremely Positive
+2166,Positive
+2167,Positive
+2168,Positive
+2169,Positive
+2170,Positive
+2171,Extremely Negative
+2172,Neutral
+2173,Negative
+2174,Extremely Positive
+2175,Extremely Positive
+2176,Extremely Positive
+2177,Positive
+2178,Extremely Negative
+2179,Extremely Negative
+2180,Negative
+2181,Extremely Negative
+2182,Neutral
+2183,Neutral
+2184,Negative
+2185,Neutral
+2186,Extremely Positive
+2187,Extremely Positive
+2188,Extremely Negative
+2189,Neutral
+2190,Neutral
+2191,Neutral
+2192,Extremely Positive
+2193,Positive
+2194,Extremely Positive
+2195,Extremely Negative
+2196,Neutral
+2197,Positive
+2198,Extremely Negative
+2199,Positive
+2200,Negative
+2201,Neutral
+2202,Extremely Positive
+2203,Positive
+2204,Positive
+2205,Extremely Negative
+2206,Positive
+2207,Extremely Negative
+2208,Negative
+2209,Positive
+2210,Positive
+2211,Negative
+2212,Positive
+2213,Negative
+2214,Extremely Positive
+2215,Positive
+2216,Negative
+2217,Neutral
+2218,Positive
+2219,Negative
+2220,Negative
+2221,Positive
+2222,Positive
+2223,Extremely Negative
+2224,Positive
+2225,Neutral
+2226,Negative
+2227,Negative
+2228,Negative
+2229,Extremely Negative
+2230,Positive
+2231,Extremely Negative
+2232,Extremely Negative
+2233,Negative
+2234,Negative
+2235,Positive
+2236,Positive
+2237,Positive
+2238,Negative
+2239,Negative
+2240,Neutral
+2241,Extremely Negative
+2242,Negative
+2243,Positive
+2244,Positive
+2245,Neutral
+2246,Positive
+2247,Neutral
+2248,Extremely Negative
+2249,Neutral
+2250,Neutral
+2251,Extremely Positive
+2252,Negative
+2253,Negative
+2254,Extremely Positive
+2255,Negative
+2256,Extremely Negative
+2257,Positive
+2258,Negative
+2259,Neutral
+2260,Positive
+2261,Positive
+2262,Extremely Negative
+2263,Neutral
+2264,Positive
+2265,Positive
+2266,Positive
+2267,Negative
+2268,Positive
+2269,Neutral
+2270,Extremely Negative
+2271,Positive
+2272,Extremely Positive
+2273,Extremely Positive
+2274,Neutral
+2275,Negative
+2276,Extremely Negative
+2277,Extremely Positive
+2278,Neutral
+2279,Neutral
+2280,Negative
+2281,Extremely Negative
+2282,Neutral
+2283,Extremely Negative
+2284,Neutral
+2285,Negative
+2286,Negative
+2287,Extremely Negative
+2288,Neutral
+2289,Positive
+2290,Extremely Negative
+2291,Negative
+2292,Positive
+2293,Positive
+2294,Negative
+2295,Extremely Positive
+2296,Neutral
+2297,Extremely Positive
+2298,Negative
+2299,Positive
+2300,Neutral
+2301,Positive
+2302,Positive
+2303,Extremely Positive
+2304,Extremely Negative
+2305,Negative
+2306,Neutral
+2307,Negative
+2308,Extremely Negative
+2309,Positive
+2310,Extremely Positive
+2311,Negative
+2312,Negative
+2313,Negative
+2314,Positive
+2315,Extremely Positive
+2316,Positive
+2317,Extremely Positive
+2318,Extremely Negative
+2319,Extremely Positive
+2320,Extremely Positive
+2321,Extremely Negative
+2322,Extremely Negative
+2323,Neutral
+2324,Negative
+2325,Extremely Positive
+2326,Extremely Positive
+2327,Negative
+2328,Extremely Negative
+2329,Negative
+2330,Positive
+2331,Extremely Negative
+2332,Extremely Negative
+2333,Negative
+2334,Extremely Negative
+2335,Extremely Negative
+2336,Positive
+2337,Extremely Negative
+2338,Positive
+2339,Extremely Positive
+2340,Extremely Negative
+2341,Neutral
+2342,Positive
+2343,Neutral
+2344,Positive
+2345,Neutral
+2346,Positive
+2347,Negative
+2348,Positive
+2349,Negative
+2350,Extremely Negative
+2351,Extremely Negative
+2352,Extremely Positive
+2353,Negative
+2354,Extremely Positive
+2355,Neutral
+2356,Positive
+2357,Negative
+2358,Positive
+2359,Extremely Negative
+2360,Neutral
+2361,Negative
+2362,Extremely Positive
+2363,Extremely Positive
+2364,Negative
+2365,Neutral
+2366,Extremely Positive
+2367,Extremely Negative
+2368,Extremely Positive
+2369,Positive
+2370,Neutral
+2371,Extremely Positive
+2372,Extremely Negative
+2373,Negative
+2374,Positive
+2375,Extremely Positive
+2376,Negative
+2377,Extremely Negative
+2378,Neutral
+2379,Positive
+2380,Neutral
+2381,Extremely Positive
+2382,Positive
+2383,Neutral
+2384,Extremely Negative
+2385,Positive
+2386,Neutral
+2387,Positive
+2388,Positive
+2389,Extremely Positive
+2390,Neutral
+2391,Extremely Negative
+2392,Extremely Negative
+2393,Neutral
+2394,Negative
+2395,Negative
+2396,Extremely Positive
+2397,Neutral
+2398,Negative
+2399,Positive
+2400,Positive
+2401,Positive
+2402,Extremely Positive
+2403,Neutral
+2404,Positive
+2405,Neutral
+2406,Extremely Negative
+2407,Positive
+2408,Positive
+2409,Positive
+2410,Extremely Positive
+2411,Neutral
+2412,Negative
+2413,Extremely Negative
+2414,Extremely Positive
+2415,Extremely Negative
+2416,Negative
+2417,Extremely Positive
+2418,Positive
+2419,Positive
+2420,Extremely Positive
+2421,Positive
+2422,Negative
+2423,Positive
+2424,Extremely Positive
+2425,Positive
+2426,Negative
+2427,Extremely Positive
+2428,Positive
+2429,Positive
+2430,Extremely Positive
+2431,Extremely Positive
+2432,Positive
+2433,Positive
+2434,Extremely Negative
+2435,Neutral
+2436,Positive
+2437,Positive
+2438,Negative
+2439,Negative
+2440,Positive
+2441,Extremely Positive
+2442,Extremely Negative
+2443,Positive
+2444,Negative
+2445,Negative
+2446,Negative
+2447,Positive
+2448,Negative
+2449,Positive
+2450,Negative
+2451,Neutral
+2452,Negative
+2453,Negative
+2454,Negative
+2455,Positive
+2456,Positive
+2457,Neutral
+2458,Negative
+2459,Extremely Negative
+2460,Negative
+2461,Extremely Positive
+2462,Neutral
+2463,Extremely Positive
+2464,Extremely Negative
+2465,Negative
+2466,Positive
+2467,Extremely Negative
+2468,Negative
+2469,Negative
+2470,Extremely Negative
+2471,Negative
+2472,Negative
+2473,Negative
+2474,Negative
+2475,Negative
+2476,Extremely Positive
+2477,Positive
+2478,Extremely Negative
+2479,Negative
+2480,Positive
+2481,Neutral
+2482,Neutral
+2483,Neutral
+2484,Negative
+2485,Neutral
+2486,Neutral
+2487,Negative
+2488,Neutral
+2489,Positive
+2490,Negative
+2491,Extremely Negative
+2492,Negative
+2493,Negative
+2494,Neutral
+2495,Extremely Negative
+2496,Extremely Negative
+2497,Positive
+2498,Negative
+2499,Positive
+2500,Extremely Positive
+2501,Extremely Positive
+2502,Neutral
+2503,Negative
+2504,Negative
+2505,Extremely Positive
+2506,Extremely Negative
+2507,Positive
+2508,Positive
+2509,Neutral
+2510,Neutral
+2511,Neutral
+2512,Negative
+2513,Positive
+2514,Negative
+2515,Positive
+2516,Negative
+2517,Negative
+2518,Negative
+2519,Neutral
+2520,Extremely Positive
+2521,Negative
+2522,Negative
+2523,Neutral
+2524,Negative
+2525,Negative
+2526,Negative
+2527,Negative
+2528,Negative
+2529,Negative
+2530,Neutral
+2531,Neutral
+2532,Extremely Positive
+2533,Positive
+2534,Negative
+2535,Extremely Negative
+2536,Extremely Positive
+2537,Negative
+2538,Positive
+2539,Neutral
+2540,Neutral
+2541,Positive
+2542,Negative
+2543,Positive
+2544,Neutral
+2545,Positive
+2546,Positive
+2547,Neutral
+2548,Extremely Negative
+2549,Negative
+2550,Negative
+2551,Negative
+2552,Extremely Positive
+2553,Extremely Negative
+2554,Negative
+2555,Extremely Negative
+2556,Positive
+2557,Negative
+2558,Negative
+2559,Neutral
+2560,Negative
+2561,Positive
+2562,Positive
+2563,Negative
+2564,Neutral
+2565,Extremely Positive
+2566,Positive
+2567,Extremely Positive
+2568,Extremely Positive
+2569,Negative
+2570,Negative
+2571,Positive
+2572,Negative
+2573,Extremely Positive
+2574,Negative
+2575,Extremely Negative
+2576,Positive
+2577,Extremely Positive
+2578,Extremely Positive
+2579,Positive
+2580,Positive
+2581,Extremely Positive
+2582,Negative
+2583,Extremely Negative
+2584,Neutral
+2585,Negative
+2586,Positive
+2587,Extremely Negative
+2588,Negative
+2589,Neutral
+2590,Positive
+2591,Extremely Positive
+2592,Positive
+2593,Negative
+2594,Negative
+2595,Positive
+2596,Positive
+2597,Extremely Negative
+2598,Positive
+2599,Neutral
+2600,Neutral
+2601,Negative
+2602,Negative
+2603,Extremely Negative
+2604,Negative
+2605,Positive
+2606,Negative
+2607,Extremely Positive
+2608,Neutral
+2609,Extremely Positive
+2610,Negative
+2611,Neutral
+2612,Extremely Positive
+2613,Positive
+2614,Extremely Positive
+2615,Negative
+2616,Negative
+2617,Negative
+2618,Extremely Negative
+2619,Positive
+2620,Negative
+2621,Extremely Negative
+2622,Negative
+2623,Positive
+2624,Neutral
+2625,Positive
+2626,Neutral
+2627,Positive
+2628,Negative
+2629,Neutral
+2630,Neutral
+2631,Positive
+2632,Positive
+2633,Extremely Positive
+2634,Positive
+2635,Negative
+2636,Extremely Negative
+2637,Extremely Negative
+2638,Neutral
+2639,Positive
+2640,Negative
+2641,Positive
+2642,Positive
+2643,Extremely Positive
+2644,Extremely Negative
+2645,Positive
+2646,Neutral
+2647,Extremely Negative
+2648,Neutral
+2649,Extremely Negative
+2650,Neutral
+2651,Positive
+2652,Extremely Negative
+2653,Neutral
+2654,Negative
+2655,Extremely Positive
+2656,Negative
+2657,Neutral
+2658,Negative
+2659,Positive
+2660,Neutral
+2661,Negative
+2662,Neutral
+2663,Positive
+2664,Positive
+2665,Positive
+2666,Extremely Positive
+2667,Extremely Negative
+2668,Extremely Negative
+2669,Positive
+2670,Neutral
+2671,Positive
+2672,Extremely Negative
+2673,Extremely Positive
+2674,Negative
+2675,Negative
+2676,Extremely Positive
+2677,Neutral
+2678,Positive
+2679,Negative
+2680,Neutral
+2681,Extremely Negative
+2682,Positive
+2683,Neutral
+2684,Positive
+2685,Positive
+2686,Negative
+2687,Positive
+2688,Negative
+2689,Extremely Positive
+2690,Extremely Positive
+2691,Extremely Negative
+2692,Negative
+2693,Extremely Negative
+2694,Positive
+2695,Extremely Positive
+2696,Neutral
+2697,Extremely Negative
+2698,Extremely Positive
+2699,Negative
+2700,Extremely Negative
+2701,Extremely Positive
+2702,Extremely Positive
+2703,Extremely Negative
+2704,Extremely Positive
+2705,Extremely Negative
+2706,Extremely Negative
+2707,Extremely Negative
+2708,Negative
+2709,Positive
+2710,Negative
+2711,Extremely Negative
+2712,Positive
+2713,Neutral
+2714,Neutral
+2715,Extremely Positive
+2716,Negative
+2717,Extremely Negative
+2718,Positive
+2719,Extremely Positive
+2720,Extremely Positive
+2721,Negative
+2722,Extremely Negative
+2723,Positive
+2724,Positive
+2725,Positive
+2726,Extremely Negative
+2727,Negative
+2728,Positive
+2729,Extremely Positive
+2730,Negative
+2731,Negative
+2732,Positive
+2733,Positive
+2734,Positive
+2735,Negative
+2736,Extremely Positive
+2737,Positive
+2738,Neutral
+2739,Extremely Negative
+2740,Extremely Positive
+2741,Negative
+2742,Neutral
+2743,Positive
+2744,Positive
+2745,Negative
+2746,Extremely Positive
+2747,Neutral
+2748,Negative
+2749,Negative
+2750,Neutral
+2751,Extremely Negative
+2752,Positive
+2753,Extremely Positive
+2754,Negative
+2755,Neutral
+2756,Positive
+2757,Neutral
+2758,Extremely Negative
+2759,Neutral
+2760,Negative
+2761,Extremely Positive
+2762,Extremely Negative
+2763,Negative
+2764,Negative
+2765,Positive
+2766,Negative
+2767,Positive
+2768,Positive
+2769,Extremely Positive
+2770,Negative
+2771,Positive
+2772,Extremely Negative
+2773,Positive
+2774,Neutral
+2775,Extremely Negative
+2776,Extremely Negative
+2777,Negative
+2778,Extremely Negative
+2779,Extremely Positive
+2780,Extremely Negative
+2781,Extremely Positive
+2782,Positive
+2783,Positive
+2784,Negative
+2785,Neutral
+2786,Positive
+2787,Positive
+2788,Extremely Positive
+2789,Negative
+2790,Positive
+2791,Positive
+2792,Extremely Positive
+2793,Positive
+2794,Negative
+2795,Negative
+2796,Positive
+2797,Neutral
+2798,Extremely Negative
+2799,Negative
+2800,Negative
+2801,Negative
+2802,Negative
+2803,Negative
+2804,Negative
+2805,Extremely Positive
+2806,Positive
+2807,Negative
+2808,Negative
+2809,Negative
+2810,Extremely Negative
+2811,Positive
+2812,Negative
+2813,Neutral
+2814,Positive
+2815,Positive
+2816,Positive
+2817,Positive
+2818,Positive
+2819,Extremely Positive
+2820,Positive
+2821,Extremely Positive
+2822,Negative
+2823,Positive
+2824,Extremely Negative
+2825,Extremely Negative
+2826,Extremely Negative
+2827,Extremely Positive
+2828,Neutral
+2829,Positive
+2830,Negative
+2831,Positive
+2832,Negative
+2833,Extremely Positive
+2834,Negative
+2835,Extremely Negative
+2836,Extremely Positive
+2837,Neutral
+2838,Negative
+2839,Positive
+2840,Negative
+2841,Negative
+2842,Negative
+2843,Extremely Negative
+2844,Positive
+2845,Positive
+2846,Extremely Negative
+2847,Extremely Positive
+2848,Positive
+2849,Negative
+2850,Positive
+2851,Positive
+2852,Extremely Negative
+2853,Negative
+2854,Positive
+2855,Extremely Positive
+2856,Neutral
+2857,Positive
+2858,Neutral
+2859,Extremely Negative
+2860,Neutral
+2861,Extremely Positive
+2862,Positive
+2863,Positive
+2864,Negative
+2865,Extremely Positive
+2866,Negative
+2867,Neutral
+2868,Positive
+2869,Extremely Negative
+2870,Extremely Negative
+2871,Positive
+2872,Positive
+2873,Negative
+2874,Neutral
+2875,Extremely Positive
+2876,Extremely Negative
+2877,Negative
+2878,Positive
+2879,Extremely Positive
+2880,Extremely Positive
+2881,Neutral
+2882,Negative
+2883,Extremely Negative
+2884,Extremely Negative
+2885,Neutral
+2886,Positive
+2887,Neutral
+2888,Neutral
+2889,Negative
+2890,Positive
+2891,Extremely Negative
+2892,Negative
+2893,Extremely Negative
+2894,Negative
+2895,Extremely Positive
+2896,Extremely Negative
+2897,Extremely Negative
+2898,Positive
+2899,Positive
+2900,Neutral
+2901,Neutral
+2902,Extremely Negative
+2903,Positive
+2904,Extremely Negative
+2905,Negative
+2906,Positive
+2907,Neutral
+2908,Positive
+2909,Neutral
+2910,Neutral
+2911,Negative
+2912,Negative
+2913,Extremely Positive
+2914,Extremely Negative
+2915,Extremely Negative
+2916,Extremely Positive
+2917,Extremely Negative
+2918,Negative
+2919,Extremely Positive
+2920,Extremely Positive
+2921,Negative
+2922,Positive
+2923,Neutral
+2924,Negative
+2925,Extremely Negative
+2926,Positive
+2927,Negative
+2928,Positive
+2929,Negative
+2930,Neutral
+2931,Extremely Positive
+2932,Extremely Negative
+2933,Neutral
+2934,Positive
+2935,Negative
+2936,Extremely Negative
+2937,Neutral
+2938,Negative
+2939,Neutral
+2940,Positive
+2941,Positive
+2942,Negative
+2943,Neutral
+2944,Positive
+2945,Neutral
+2946,Extremely Negative
+2947,Neutral
+2948,Positive
+2949,Extremely Positive
+2950,Neutral
+2951,Extremely Positive
+2952,Extremely Positive
+2953,Extremely Negative
+2954,Positive
+2955,Negative
+2956,Negative
+2957,Negative
+2958,Neutral
+2959,Positive
+2960,Neutral
+2961,Negative
+2962,Negative
+2963,Negative
+2964,Positive
+2965,Extremely Negative
+2966,Extremely Negative
+2967,Neutral
+2968,Positive
+2969,Negative
+2970,Negative
+2971,Negative
+2972,Extremely Positive
+2973,Positive
+2974,Extremely Negative
+2975,Negative
+2976,Negative
+2977,Extremely Positive
+2978,Positive
+2979,Extremely Positive
+2980,Neutral
+2981,Negative
+2982,Positive
+2983,Extremely Positive
+2984,Negative
+2985,Positive
+2986,Negative
+2987,Negative
+2988,Positive
+2989,Negative
+2990,Positive
+2991,Positive
+2992,Positive
+2993,Positive
+2994,Extremely Positive
+2995,Positive
+2996,Positive
+2997,Neutral
+2998,Extremely Positive
+2999,Negative
+3000,Extremely Positive
+3001,Positive
+3002,Negative
+3003,Neutral
+3004,Extremely Positive
+3005,Positive
+3006,Positive
+3007,Positive
+3008,Positive
+3009,Extremely Negative
+3010,Negative
+3011,Extremely Negative
+3012,Negative
+3013,Extremely Negative
+3014,Positive
+3015,Positive
+3016,Extremely Negative
+3017,Neutral
+3018,Neutral
+3019,Neutral
+3020,Neutral
+3021,Negative
+3022,Negative
+3023,Extremely Positive
+3024,Negative
+3025,Extremely Negative
+3026,Negative
+3027,Positive
+3028,Positive
+3029,Extremely Positive
+3030,Extremely Negative
+3031,Neutral
+3032,Extremely Positive
+3033,Extremely Positive
+3034,Extremely Negative
+3035,Extremely Positive
+3036,Positive
+3037,Negative
+3038,Extremely Negative
+3039,Neutral
+3040,Extremely Positive
+3041,Negative
+3042,Extremely Negative
+3043,Negative
+3044,Neutral
+3045,Negative
+3046,Extremely Negative
+3047,Negative
+3048,Positive
+3049,Negative
+3050,Extremely Positive
+3051,Neutral
+3052,Positive
+3053,Extremely Positive
+3054,Positive
+3055,Extremely Negative
+3056,Negative
+3057,Negative
+3058,Extremely Negative
+3059,Extremely Positive
+3060,Neutral
+3061,Extremely Negative
+3062,Positive
+3063,Positive
+3064,Positive
+3065,Extremely Positive
+3066,Positive
+3067,Negative
+3068,Positive
+3069,Extremely Negative
+3070,Extremely Positive
+3071,Extremely Negative
+3072,Extremely Positive
+3073,Extremely Positive
+3074,Extremely Positive
+3075,Positive
+3076,Negative
+3077,Negative
+3078,Extremely Negative
+3079,Positive
+3080,Extremely Negative
+3081,Positive
+3082,Negative
+3083,Extremely Negative
+3084,Extremely Negative
+3085,Positive
+3086,Neutral
+3087,Extremely Positive
+3088,Neutral
+3089,Negative
+3090,Negative
+3091,Negative
+3092,Positive
+3093,Positive
+3094,Positive
+3095,Neutral
+3096,Extremely Positive
+3097,Positive
+3098,Neutral
+3099,Extremely Negative
+3100,Positive
+3101,Positive
+3102,Neutral
+3103,Negative
+3104,Positive
+3105,Extremely Positive
+3106,Extremely Positive
+3107,Negative
+3108,Extremely Positive
+3109,Extremely Positive
+3110,Extremely Negative
+3111,Extremely Positive
+3112,Positive
+3113,Extremely Negative
+3114,Extremely Negative
+3115,Positive
+3116,Extremely Negative
+3117,Positive
+3118,Positive
+3119,Neutral
+3120,Positive
+3121,Neutral
+3122,Negative
+3123,Negative
+3124,Positive
+3125,Negative
+3126,Extremely Negative
+3127,Positive
+3128,Negative
+3129,Negative
+3130,Extremely Positive
+3131,Extremely Negative
+3132,Positive
+3133,Extremely Positive
+3134,Positive
+3135,Negative
+3136,Extremely Positive
+3137,Positive
+3138,Neutral
+3139,Positive
+3140,Neutral
+3141,Negative
+3142,Positive
+3143,Extremely Negative
+3144,Extremely Negative
+3145,Extremely Negative
+3146,Neutral
+3147,Positive
+3148,Positive
+3149,Negative
+3150,Negative
+3151,Extremely Negative
+3152,Positive
+3153,Positive
+3154,Positive
+3155,Extremely Positive
+3156,Positive
+3157,Extremely Negative
+3158,Neutral
+3159,Negative
+3160,Negative
+3161,Neutral
+3162,Extremely Positive
+3163,Extremely Negative
+3164,Neutral
+3165,Negative
+3166,Positive
+3167,Extremely Positive
+3168,Negative
+3169,Negative
+3170,Positive
+3171,Negative
+3172,Positive
+3173,Positive
+3174,Positive
+3175,Negative
+3176,Extremely Negative
+3177,Negative
+3178,Negative
+3179,Neutral
+3180,Neutral
+3181,Extremely Negative
+3182,Positive
+3183,Neutral
+3184,Positive
+3185,Positive
+3186,Negative
+3187,Positive
+3188,Positive
+3189,Negative
+3190,Extremely Negative
+3191,Positive
+3192,Extremely Negative
+3193,Neutral
+3194,Positive
+3195,Neutral
+3196,Neutral
+3197,Negative
+3198,Negative
+3199,Extremely Negative
+3200,Negative
+3201,Positive
+3202,Negative
+3203,Extremely Negative
+3204,Negative
+3205,Extremely Negative
+3206,Positive
+3207,Positive
+3208,Extremely Negative
+3209,Neutral
+3210,Negative
+3211,Negative
+3212,Extremely Negative
+3213,Positive
+3214,Extremely Positive
+3215,Positive
+3216,Positive
+3217,Positive
+3218,Positive
+3219,Negative
+3220,Negative
+3221,Positive
+3222,Negative
+3223,Extremely Positive
+3224,Negative
+3225,Extremely Positive
+3226,Positive
+3227,Extremely Positive
+3228,Neutral
+3229,Positive
+3230,Neutral
+3231,Negative
+3232,Extremely Negative
+3233,Extremely Positive
+3234,Neutral
+3235,Extremely Positive
+3236,Neutral
+3237,Extremely Positive
+3238,Positive
+3239,Extremely Negative
+3240,Positive
+3241,Positive
+3242,Extremely Positive
+3243,Neutral
+3244,Neutral
+3245,Negative
+3246,Extremely Positive
+3247,Extremely Negative
+3248,Extremely Negative
+3249,Negative
+3250,Negative
+3251,Neutral
+3252,Positive
+3253,Negative
+3254,Neutral
+3255,Negative
+3256,Positive
+3257,Neutral
+3258,Extremely Positive
+3259,Positive
+3260,Extremely Positive
+3261,Extremely Positive
+3262,Neutral
+3263,Neutral
+3264,Extremely Positive
+3265,Positive
+3266,Positive
+3267,Positive
+3268,Negative
+3269,Neutral
+3270,Neutral
+3271,Positive
+3272,Extremely Negative
+3273,Negative
+3274,Neutral
+3275,Positive
+3276,Extremely Negative
+3277,Positive
+3278,Negative
+3279,Extremely Negative
+3280,Extremely Negative
+3281,Extremely Positive
+3282,Negative
+3283,Extremely Negative
+3284,Positive
+3285,Positive
+3286,Positive
+3287,Neutral
+3288,Neutral
+3289,Extremely Negative
+3290,Positive
+3291,Positive
+3292,Extremely Positive
+3293,Negative
+3294,Negative
+3295,Extremely Negative
+3296,Extremely Positive
+3297,Neutral
+3298,Extremely Positive
+3299,Extremely Positive
+3300,Neutral
+3301,Negative
+3302,Extremely Negative
+3303,Extremely Positive
+3304,Negative
+3305,Extremely Negative
+3306,Positive
+3307,Negative
+3308,Positive
+3309,Negative
+3310,Negative
+3311,Negative
+3312,Positive
+3313,Positive
+3314,Positive
+3315,Neutral
+3316,Extremely Positive
+3317,Positive
+3318,Negative
+3319,Positive
+3320,Negative
+3321,Positive
+3322,Negative
+3323,Negative
+3324,Negative
+3325,Positive
+3326,Positive
+3327,Positive
+3328,Positive
+3329,Negative
+3330,Extremely Negative
+3331,Negative
+3332,Neutral
+3333,Positive
+3334,Positive
+3335,Positive
+3336,Positive
+3337,Extremely Negative
+3338,Positive
+3339,Extremely Negative
+3340,Negative
+3341,Negative
+3342,Positive
+3343,Extremely Negative
+3344,Extremely Positive
+3345,Extremely Positive
+3346,Positive
+3347,Positive
+3348,Positive
+3349,Neutral
+3350,Extremely Positive
+3351,Positive
+3352,Positive
+3353,Neutral
+3354,Positive
+3355,Extremely Negative
+3356,Extremely Negative
+3357,Positive
+3358,Negative
+3359,Negative
+3360,Negative
+3361,Extremely Positive
+3362,Extremely Positive
+3363,Positive
+3364,Extremely Negative
+3365,Negative
+3366,Negative
+3367,Positive
+3368,Positive
+3369,Extremely Positive
+3370,Extremely Negative
+3371,Extremely Positive
+3372,Negative
+3373,Negative
+3374,Neutral
+3375,Negative
+3376,Negative
+3377,Negative
+3378,Neutral
+3379,Positive
+3380,Positive
+3381,Neutral
+3382,Negative
+3383,Negative
+3384,Extremely Negative
+3385,Extremely Negative
+3386,Extremely Positive
+3387,Extremely Negative
+3388,Neutral
+3389,Extremely Negative
+3390,Extremely Positive
+3391,Positive
+3392,Neutral
+3393,Extremely Negative
+3394,Extremely Negative
+3395,Neutral
+3396,Positive
+3397,Positive
+3398,Positive
+3399,Neutral
+3400,Extremely Negative
+3401,Positive
+3402,Positive
+3403,Positive
+3404,Neutral
+3405,Positive
+3406,Neutral
+3407,Neutral
+3408,Extremely Negative
+3409,Neutral
+3410,Extremely Positive
+3411,Neutral
+3412,Extremely Positive
+3413,Positive
+3414,Negative
+3415,Neutral
+3416,Neutral
+3417,Negative
+3418,Positive
+3419,Positive
+3420,Positive
+3421,Negative
+3422,Positive
+3423,Extremely Negative
+3424,Extremely Negative
+3425,Extremely Positive
+3426,Negative
+3427,Extremely Positive
+3428,Extremely Negative
+3429,Extremely Positive
+3430,Negative
+3431,Neutral
+3432,Neutral
+3433,Negative
+3434,Extremely Negative
+3435,Neutral
+3436,Extremely Negative
+3437,Extremely Negative
+3438,Positive
+3439,Negative
+3440,Negative
+3441,Neutral
+3442,Negative
+3443,Positive
+3444,Negative
+3445,Negative
+3446,Neutral
+3447,Negative
+3448,Neutral
+3449,Positive
+3450,Positive
+3451,Negative
+3452,Positive
+3453,Extremely Positive
+3454,Extremely Positive
+3455,Positive
+3456,Positive
+3457,Extremely Positive
+3458,Neutral
+3459,Positive
+3460,Positive
+3461,Neutral
+3462,Positive
+3463,Negative
+3464,Extremely Positive
+3465,Extremely Negative
+3466,Neutral
+3467,Positive
+3468,Neutral
+3469,Neutral
+3470,Negative
+3471,Extremely Negative
+3472,Positive
+3473,Positive
+3474,Extremely Positive
+3475,Negative
+3476,Extremely Positive
+3477,Extremely Negative
+3478,Extremely Positive
+3479,Extremely Positive
+3480,Positive
+3481,Positive
+3482,Positive
+3483,Positive
+3484,Positive
+3485,Extremely Positive
+3486,Negative
+3487,Extremely Positive
+3488,Neutral
+3489,Positive
+3490,Negative
+3491,Negative
+3492,Positive
+3493,Positive
+3494,Positive
+3495,Extremely Positive
+3496,Neutral
+3497,Extremely Negative
+3498,Neutral
+3499,Negative
+3500,Positive
+3501,Extremely Negative
+3502,Neutral
+3503,Positive
+3504,Negative
+3505,Positive
+3506,Negative
+3507,Positive
+3508,Negative
+3509,Neutral
+3510,Neutral
+3511,Extremely Positive
+3512,Negative
+3513,Positive
+3514,Neutral
+3515,Neutral
+3516,Extremely Positive
+3517,Negative
+3518,Neutral
+3519,Extremely Positive
+3520,Negative
+3521,Extremely Negative
+3522,Negative
+3523,Extremely Positive
+3524,Neutral
+3525,Negative
+3526,Neutral
+3527,Neutral
+3528,Neutral
+3529,Neutral
+3530,Neutral
+3531,Extremely Negative
+3532,Extremely Positive
+3533,Neutral
+3534,Extremely Negative
+3535,Negative
+3536,Negative
+3537,Negative
+3538,Positive
+3539,Positive
+3540,Positive
+3541,Extremely Negative
+3542,Positive
+3543,Extremely Positive
+3544,Neutral
+3545,Negative
+3546,Neutral
+3547,Positive
+3548,Negative
+3549,Negative
+3550,Negative
+3551,Extremely Negative
+3552,Negative
+3553,Neutral
+3554,Positive
+3555,Positive
+3556,Positive
+3557,Negative
+3558,Positive
+3559,Extremely Positive
+3560,Extremely Positive
+3561,Negative
+3562,Neutral
+3563,Extremely Positive
+3564,Extremely Positive
+3565,Positive
+3566,Positive
+3567,Positive
+3568,Extremely Negative
+3569,Neutral
+3570,Negative
+3571,Neutral
+3572,Negative
+3573,Neutral
+3574,Negative
+3575,Extremely Negative
+3576,Positive
+3577,Positive
+3578,Positive
+3579,Extremely Negative
+3580,Extremely Positive
+3581,Neutral
+3582,Positive
+3583,Positive
+3584,Negative
+3585,Extremely Negative
+3586,Positive
+3587,Neutral
+3588,Extremely Negative
+3589,Neutral
+3590,Positive
+3591,Extremely Positive
+3592,Negative
+3593,Positive
+3594,Negative
+3595,Extremely Positive
+3596,Negative
+3597,Extremely Negative
+3598,Negative
+3599,Positive
+3600,Positive
+3601,Extremely Positive
+3602,Extremely Positive
+3603,Extremely Negative
+3604,Neutral
+3605,Positive
+3606,Extremely Positive
+3607,Extremely Positive
+3608,Extremely Positive
+3609,Positive
+3610,Negative
+3611,Negative
+3612,Positive
+3613,Neutral
+3614,Negative
+3615,Negative
+3616,Neutral
+3617,Extremely Positive
+3618,Negative
+3619,Extremely Negative
+3620,Neutral
+3621,Positive
+3622,Extremely Negative
+3623,Positive
+3624,Extremely Negative
+3625,Extremely Positive
+3626,Extremely Negative
+3627,Neutral
+3628,Negative
+3629,Extremely Negative
+3630,Extremely Negative
+3631,Negative
+3632,Negative
+3633,Positive
+3634,Positive
+3635,Neutral
+3636,Negative
+3637,Extremely Negative
+3638,Negative
+3639,Positive
+3640,Extremely Negative
+3641,Negative
+3642,Neutral
+3643,Extremely Positive
+3644,Negative
+3645,Extremely Negative
+3646,Negative
+3647,Negative
+3648,Negative
+3649,Negative
+3650,Positive
+3651,Extremely Negative
+3652,Negative
+3653,Positive
+3654,Negative
+3655,Negative
+3656,Extremely Positive
+3657,Extremely Positive
+3658,Positive
+3659,Extremely Positive
+3660,Negative
+3661,Extremely Positive
+3662,Positive
+3663,Positive
+3664,Extremely Positive
+3665,Positive
+3666,Extremely Negative
+3667,Positive
+3668,Negative
+3669,Positive
+3670,Positive
+3671,Positive
+3672,Extremely Negative
+3673,Extremely Positive
+3674,Extremely Positive
+3675,Negative
+3676,Neutral
+3677,Neutral
+3678,Negative
+3679,Neutral
+3680,Extremely Negative
+3681,Negative
+3682,Positive
+3683,Negative
+3684,Extremely Negative
+3685,Negative
+3686,Neutral
+3687,Positive
+3688,Extremely Positive
+3689,Extremely Positive
+3690,Extremely Positive
+3691,Neutral
+3692,Neutral
+3693,Extremely Positive
+3694,Positive
+3695,Neutral
+3696,Neutral
+3697,Neutral
+3698,Extremely Positive
+3699,Positive
+3700,Extremely Negative
+3701,Neutral
+3702,Extremely Positive
+3703,Neutral
+3704,Positive
+3705,Extremely Positive
+3706,Negative
+3707,Positive
+3708,Extremely Negative
+3709,Negative
+3710,Positive
+3711,Positive
+3712,Positive
+3713,Extremely Negative
+3714,Extremely Negative
+3715,Negative
+3716,Positive
+3717,Positive
+3718,Negative
+3719,Extremely Negative
+3720,Positive
+3721,Negative
+3722,Positive
+3723,Negative
+3724,Extremely Positive
+3725,Negative
+3726,Extremely Negative
+3727,Negative
+3728,Negative
+3729,Positive
+3730,Extremely Negative
+3731,Extremely Negative
+3732,Positive
+3733,Positive
+3734,Positive
+3735,Negative
+3736,Positive
+3737,Positive
+3738,Extremely Positive
+3739,Extremely Positive
+3740,Negative
+3741,Positive
+3742,Extremely Positive
+3743,Neutral
+3744,Negative
+3745,Positive
+3746,Positive
+3747,Extremely Negative
+3748,Neutral
+3749,Negative
+3750,Negative
+3751,Negative
+3752,Positive
+3753,Neutral
+3754,Neutral
+3755,Neutral
+3756,Neutral
+3757,Negative
+3758,Extremely Negative
+3759,Neutral
+3760,Extremely Positive
+3761,Negative
+3762,Extremely Positive
+3763,Negative
+3764,Negative
+3765,Negative
+3766,Extremely Negative
+3767,Positive
+3768,Neutral
+3769,Neutral
+3770,Neutral
+3771,Positive
+3772,Negative
+3773,Extremely Positive
+3774,Extremely Positive
+3775,Positive
+3776,Positive
+3777,Extremely Negative
+3778,Negative
+3779,Positive
+3780,Negative
+3781,Negative
+3782,Positive
+3783,Positive
+3784,Negative
+3785,Extremely Positive
+3786,Neutral
+3787,Extremely Positive
+3788,Extremely Negative
+3789,Positive
+3790,Neutral
+3791,Positive
+3792,Negative
+3793,Extremely Positive
+3794,Negative
+3795,Neutral
+3796,Negative
+3797,Positive
+3798,Positive
